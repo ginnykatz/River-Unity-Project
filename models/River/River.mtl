@@ -1,0 +1,26 @@
+# Blender MTL File: 'River.blend'
+# Material Count: 2
+
+newmtl Land
+Ns 60.784314
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.086957 0.086957 0.086957
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd land.jpg
+map_Bump -bm 0.200000 land_normal.jpg
+
+newmtl Water
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd water.jpg
+map_Bump water_normal.jpg
